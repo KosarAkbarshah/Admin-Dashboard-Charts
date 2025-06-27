@@ -2,7 +2,7 @@
 
 A responsive and interactive Admin Dashboard built with **React**, **Tailwind CSS**, and **[Recharts](https://recharts.org/)** for elegant data visualization.
 ---
-** 🚀Live Demo:** [Live Demo](https://admin-dashboard-charts-plum.vercel.app/)  
+🚀**Live Demo:** [Live Demo](https://admin-dashboard-charts-plum.vercel.app/)  
 
 ---
 ## 📊 Features
